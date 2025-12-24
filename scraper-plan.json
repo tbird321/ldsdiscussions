@@ -392,23 +392,33 @@
     },
     {
       "url": "https://www.ldsdiscussions.com/ldsblog",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:02:46.981578",
+      "filename": "ldsblog.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/ldsessay-dna",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:02:48.692239",
+      "filename": "ldsessay-dna.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/ldsessay-translation",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:02:49.830591",
+      "filename": "ldsessay-translation.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/mark",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:02:50.293120",
+      "filename": "mark.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/mount",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:02:50.729152",
+      "filename": "mount.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/nelson",
