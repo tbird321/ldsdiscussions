@@ -152,23 +152,33 @@
     },
     {
       "url": "https://www.ldsdiscussions.com/blog-js-video",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:46:22.209188",
+      "filename": "blog-js-video.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blog-masonry-temple-video",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:46:23.004995",
+      "filename": "blog-masonry-temple-video.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blog-navigating-doubts",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:46:23.450802",
+      "filename": "blog-navigating-doubts.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blog-parallels",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:46:24.285243",
+      "filename": "blog-parallels.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blog-position",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:46:25.454438",
+      "filename": "blog-position.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blog-rebranding-revelation",
