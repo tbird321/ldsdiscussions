@@ -512,23 +512,33 @@
     },
     {
       "url": "https://www.ldsdiscussions.com/revelations-after-joseph",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:05:57.839215",
+      "filename": "revelations-after-joseph.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/revelations-joseph-smith",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:05:58.261810",
+      "filename": "revelations-joseph-smith.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/right",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:05:58.750183",
+      "filename": "right.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/saints",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:05:59.253827",
+      "filename": "saints.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/seer-stone-video",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:05:59.749271",
+      "filename": "seer-stone-video.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/seerstone",
