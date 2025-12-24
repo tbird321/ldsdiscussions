@@ -242,23 +242,33 @@
     },
     {
       "url": "https://www.ldsdiscussions.com/book-of-abraham",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:49:24.816453",
+      "filename": "book-of-abraham.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/bookofabraham",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:49:25.945583",
+      "filename": "bookofabraham.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/cannot-read-a-sealed-book",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:49:26.381435",
+      "filename": "cannot-read-a-sealed-book.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/changes-to-revelations",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:49:26.844261",
+      "filename": "changes-to-revelations.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/church-history",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:49:27.277230",
+      "filename": "church-history.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/deuteroisaiah",
