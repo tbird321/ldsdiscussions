@@ -332,23 +332,33 @@
     },
     {
       "url": "https://www.ldsdiscussions.com/flood",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:52:16.397291",
+      "filename": "flood.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/footnotes",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:52:16.822799",
+      "filename": "footnotes.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/geography",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:52:17.271707",
+      "filename": "geography.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/gratitude",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:52:18.139278",
+      "filename": "gratitude.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/happiness",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:52:18.639971",
+      "filename": "happiness.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/homewreckers",
