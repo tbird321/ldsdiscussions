@@ -482,23 +482,33 @@
     },
     {
       "url": "https://www.ldsdiscussions.com/polygamy-utah",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:05:06.562241",
+      "filename": "polygamy-utah.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/priesthood",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:05:07.013339",
+      "filename": "priesthood.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/priesthood-ban-essay",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:05:07.710563",
+      "filename": "priesthood-ban-essay.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/race",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:05:08.248066",
+      "filename": "race.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/rasbands",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:05:08.715823",
+      "filename": "rasbands.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/revelations-after-joseph",
