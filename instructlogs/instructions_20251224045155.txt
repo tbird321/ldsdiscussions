@@ -1,4 +1,4 @@
-You are working in the repository at /work/e1224c72-3ee9-404f-987d-e3686ed0e835/repo on branch 'scrape-ldsdiscussions-20251223-215907'.
+You are working in the repository at /work/f7c8b993-bf50-4a1a-8ddb-e2f4361c5e14/repo on branch 'scrape-ldsdiscussions-20251223-215047'.
 
 Your task is to scrape HTML content from the website https://www.ldsdiscussions.com/ and save it to a GitHub repository.
 
@@ -31,24 +31,13 @@ Your task is to scrape HTML content from the website https://www.ldsdiscussions.
 - Look at scraper-plan.json to find pages that are marked as downloaded: false
 - Download the HTML content of up to 5 NEW pages (pages not yet downloaded)
 - For each page:
-  1. Download the HTML content using curl or wget
-  2. **Check if the page has meaningful content**:
-     - Parse the HTML to check for substantial text content
-     - Skip pages that are:
-       - Blank or nearly empty (less than ~200 characters of text content)
-       - Error pages (404, 500, etc.)
-       - Redirect pages with no content
-       - Pages with only navigation/menu items and no article content
-     - Look for indicators of real content:
-       - Article text, paragraphs, headings with substantial content
-       - Main content areas (not just headers/footers/navigation)
-       - At least a few paragraphs or substantial text blocks
-  3. **If the page has meaningful content**: Save it to the content folder with a filename based on the URL path (sanitize the filename)
-  4. **Always mark as downloaded**: Update scraper-plan.json to mark that page as downloaded: true with a timestamp, REGARDLESS of whether you saved the file or not
-  5. If you skipped saving a page due to lack of content, log a note about why (e.g., "skipped - blank page", "skipped - no content")
+  - Download the HTML content using curl or wget
+  - Save it to the content folder with a filename based on the URL path (sanitize the filename)
+  - Update scraper-plan.json to mark that page as downloaded: true
+  - Add a timestamp for when it was downloaded
 
 **Step 5: Commit the changes**
-- After downloading 5 new files, commit all changes with the message: "Scrape 5 pages from ldsdiscussions.com - batch 2025-12-23 21:59:09"
+- After downloading 5 new files, commit all changes with the message: "Scrape 5 pages from ldsdiscussions.com - batch 2025-12-23 21:50:50"
 
 **Important Notes:**
 - REUSE existing Python scripts - do not recreate them if they already exist
@@ -59,8 +48,6 @@ Your task is to scrape HTML content from the website https://www.ldsdiscussions.
 - Create meaningful filenames from URLs (e.g., /book-of-mormon/ -> ook-of-mormon.html)
 - Ensure the content folder structure is organized
 - Skip pages that are already marked as downloaded: true in the plan file
-- **CRITICAL**: Always mark pages as downloaded in the plan file, even if you don't save them due to lack of content
-- Only save files that have substantial, readable content (not blank pages, error pages, or pages with only navigation)
 
 **Workflow:**
 1. Check for existing scraper.py or similar - if exists, use it
