@@ -62,23 +62,33 @@
     },
     {
       "url": "https://www.ldsdiscussions.com/bantimeline",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:43:35.960665",
+      "filename": "bantimeline.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/biblical-scholarship",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:43:36.420906",
+      "filename": "biblical-scholarship.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blank",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:43:37.260241",
+      "filename": "blank.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blank-4",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:43:38.435952",
+      "filename": "blank-4.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blank-6",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:43:39.963390",
+      "filename": "blank-6.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blank-7",
