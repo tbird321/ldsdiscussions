@@ -422,23 +422,33 @@
     },
     {
       "url": "https://www.ldsdiscussions.com/nelson",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:03:27.081229",
+      "filename": "nelson.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/overview",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:03:27.537992",
+      "filename": "overview.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/personal-revelation",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:03:31.523967",
+      "filename": "personal-revelation.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/plates",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:03:35.711206",
+      "filename": "plates.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/please-dont-look-under-the-hood",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:03:36.993553",
+      "filename": "please-dont-look-under-the-hood.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/polygamy",
