@@ -1,46 +1,59 @@
-You are working in the repository at /work/71f685a3-1103-4abc-89c4-f3242f481ca6/repo on branch 'scrape-ldsdiscussions-20251223-213148'.
+You are working in the repository at /work/1da972b9-39d8-4044-8f6e-86cc3c4518b0/repo on branch 'scrape-ldsdiscussions-20251223-214056'.
 
 Your task is to scrape HTML content from the website https://www.ldsdiscussions.com/ and save it to a GitHub repository.
 
-**Step 1: Create a plan file**
-- Create a file called scraper-plan.json in the working directory (/work/71f685a3-1103-4abc-89c4-f3242f481ca6/repo/)
-- This file will track which pages have been downloaded
-- If the file doesn't exist, you need to create it with an empty list: {"pages": [], "downloaded": []}
+**IMPORTANT: Reuse existing files if they exist!**
+- Before creating any new Python scripts, check if scraper.py or similar files already exist in the working directory
+- If they exist, USE THEM - do not recreate them
+- Only create new scripts if they don't already exist
 
-**Step 2: Read the home page and find all links**
+**Step 1: Check for existing scraper script**
+- Look for existing Python files like scraper.py, download_pages.py, or similar in the working directory
+- If found, use the existing script(s) - they are already set up and working
+- If not found, create a new scraper.py script with the functionality described below
+
+**Step 2: Check for plan file**
+- Check if scraper-plan.json exists in the working directory
+- If it exists, READ it and use it - it tracks which pages have been downloaded
+- If it doesn't exist, create it with an empty structure: {"pages": [], "downloaded": []}
+
+**Step 3: Update plan file if needed**
 - If scraper-plan.json has an empty pages list, you need to:
   1. Download the home page HTML from https://www.ldsdiscussions.com/
   2. Parse the HTML to find all anchor tags (<a> tags) that link to pages on the same domain (ldsdiscussions.com)
   3. Extract the href attributes from these links
   4. Normalize the URLs (handle relative URLs, remove fragments, etc.)
   5. Add all unique URLs to the pages array in scraper-plan.json
-  6. Mark all pages as "downloaded": false initially
+  6. Mark all pages as "downloaded": false initially (unless already marked as downloaded)
 
-**Step 3: Download HTML content**
+**Step 4: Download HTML content**
 - Create a folder called content in the working directory if it doesn't exist
 - Look at scraper-plan.json to find pages that are marked as downloaded: false
-- Download the HTML content of up to 5 new pages (pages not yet downloaded)
+- Download the HTML content of up to 5 NEW pages (pages not yet downloaded)
 - For each page:
   - Download the HTML content using curl or wget
   - Save it to the content folder with a filename based on the URL path (sanitize the filename)
   - Update scraper-plan.json to mark that page as downloaded: true
   - Add a timestamp for when it was downloaded
 
-**Step 4: Commit the changes**
-- After downloading 5 new files, commit all changes with the message: "Scrape 5 pages from ldsdiscussions.com"
+**Step 5: Commit the changes**
+- After downloading 5 new files, commit all changes with the message: "Scrape 5 pages from ldsdiscussions.com - batch 2025-12-23 21:40:58"
 
 **Important Notes:**
-- Use Python or a shell script to parse HTML and extract links
+- REUSE existing Python scripts - do not recreate them if they already exist
+- The scraper script should use Python's standard library (html.parser, json, urllib) - no external dependencies
 - Handle relative URLs correctly (they should be converted to absolute URLs)
 - Only process links that point to pages on ldsdiscussions.com (same domain)
 - Skip external links, mailto links, anchor links (#), and javascript: links
 - Create meaningful filenames from URLs (e.g., /book-of-mormon/ -> ook-of-mormon.html)
 - Ensure the content folder structure is organized
+- Skip pages that are already marked as downloaded: true in the plan file
 
-**Tools available:**
-- You can use Python with BeautifulSoup or html.parser to parse HTML
-- You can use curl or wget to download pages
-- You can use git commands to commit changes
-- You can read/write JSON files using Python's json module
+**Workflow:**
+1. Check for existing scraper.py or similar - if exists, use it
+2. Check for scraper-plan.json - if exists, read it; if not, create it
+3. If plan has no pages, populate it from the home page
+4. Download 5 new pages (skip already downloaded ones)
+5. Update plan file and commit
 
-Begin by checking if scraper-plan.json exists, and proceed with the steps above.
+Begin by checking what files already exist in the directory.
