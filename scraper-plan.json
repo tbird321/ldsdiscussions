@@ -362,23 +362,33 @@
     },
     {
       "url": "https://www.ldsdiscussions.com/homewreckers",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:59:42.650933",
+      "filename": "homewreckers.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/influences",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:59:43.136868",
+      "filename": "influences.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/jst-problems",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:59:43.981586",
+      "filename": "jst-problems.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/kinderhook-plates",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:59:44.441298",
+      "filename": "kinderhook-plates.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/kjv",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:59:44.905088",
+      "filename": "kjv.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/ldsblog",
