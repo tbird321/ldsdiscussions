@@ -92,23 +92,33 @@
     },
     {
       "url": "https://www.ldsdiscussions.com/blank-7",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:44:38.910179",
+      "filename": "blank-7.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blank-8",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:44:40.031208",
+      "filename": "blank-8.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blog-am-i-true",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:44:40.923321",
+      "filename": "blog-am-i-true.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blog-big-faith",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:44:41.400832",
+      "filename": "blog-big-faith.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blog-come-follow-me",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:44:41.847499",
+      "filename": "blog-come-follow-me.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blog-doubts",
