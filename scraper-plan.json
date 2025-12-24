@@ -272,23 +272,33 @@
     },
     {
       "url": "https://www.ldsdiscussions.com/deuteroisaiah",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:50:17.814282",
+      "filename": "deuteroisaiah.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/dna",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:50:18.235962",
+      "filename": "dna.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/doubts",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:50:19.313903",
+      "filename": "doubts.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/ensignpeak",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:50:20.204338",
+      "filename": "ensignpeak.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/fair-abraham",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:50:21.174496",
+      "filename": "fair-abraham.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/faithpromoting",
