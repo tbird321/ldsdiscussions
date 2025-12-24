@@ -32,23 +32,33 @@
     },
     {
       "url": "https://www.ldsdiscussions.com/anachronisms",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:41:16.996093",
+      "filename": "anachronisms.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/apologetics",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:41:17.407237",
+      "filename": "apologetics.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/authorship",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:41:17.776238",
+      "filename": "authorship.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/babel",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:41:18.191083",
+      "filename": "babel.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/backdating",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:41:18.603203",
+      "filename": "backdating.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/bantimeline",
