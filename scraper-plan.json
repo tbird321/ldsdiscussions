@@ -122,23 +122,33 @@
     },
     {
       "url": "https://www.ldsdiscussions.com/blog-doubts",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:45:32.330480",
+      "filename": "blog-doubts.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blog-faith-crisis-report",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:45:33.849066",
+      "filename": "blog-faith-crisis-report.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blog-first-vision",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:45:34.299872",
+      "filename": "blog-first-vision.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blog-gold-plates",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:45:34.790555",
+      "filename": "blog-gold-plates.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blog-its-ok",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:45:35.672136",
+      "filename": "blog-its-ok.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blog-js-video",
