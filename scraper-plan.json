@@ -212,23 +212,33 @@
     },
     {
       "url": "https://www.ldsdiscussions.com/blog-skin",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:48:17.323184",
+      "filename": "blog-skin.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blog-straw-man",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:48:18.085926",
+      "filename": "blog-straw-man.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blog-thankyou",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:48:19.793262",
+      "filename": "blog-thankyou.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/blog-unintended-consequences",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:48:21.006669",
+      "filename": "blog-unintended-consequences.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/bom-issues",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T04:48:21.455177",
+      "filename": "bom-issues.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/book-of-abraham",
