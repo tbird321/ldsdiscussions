@@ -452,23 +452,33 @@
     },
     {
       "url": "https://www.ldsdiscussions.com/polygamy",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:04:22.926823",
+      "filename": "polygamy.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/polygamy-final",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:04:23.375680",
+      "filename": "polygamy-final.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/polygamy-nauvoo",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:04:23.885175",
+      "filename": "polygamy-nauvoo.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/polygamy-polyamory",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:04:24.657161",
+      "filename": "polygamy-polyamory.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/polygamy-proposals",
-      "downloaded": false
+      "downloaded": true,
+      "downloaded_at": "2025-12-24T05:04:25.178812",
+      "filename": "polygamy-proposals.html"
     },
     {
       "url": "https://www.ldsdiscussions.com/polygamy-utah",
